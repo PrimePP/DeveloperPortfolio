@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0634340d.css",
+    "main.js": "/static/js/main.0e7db356.js",
+    "static/media/cabin.png": "/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/submarine.png": "/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "index.html": "/index.html",
+    "main.0634340d.css.map": "/static/css/main.0634340d.css.map",
+    "main.0e7db356.js.map": "/static/js/main.0e7db356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0634340d.css",
+    "static/js/main.0e7db356.js"
+  ]
+}
